@@ -1,6 +1,13 @@
 # Vue Static
-
 A Vue version of React Static by Nozzle.io
+
+This repo is explained in the post:
+ - [Building a super fast static website with markdown and your favorite framework, Vue](https://medium.com/@codingfriend/vue-static-site-generator-e098e7689831)
+
+To see other approachs to build a static site with Vue check:
+- [How to generate a static website with Vue.js in no time](https://medium.freecodecamp.org/how-to-generate-a-static-website-with-vue-js-in-no-time-e74e7073b7b8)
+
+
 
 ### How to start
 
