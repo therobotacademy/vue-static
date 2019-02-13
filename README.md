@@ -14,8 +14,8 @@ To see other approachs to build a static site with Vue check:
 Run
 
 ```
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 Open `localhost:3000`
@@ -25,7 +25,7 @@ Open `localhost:3000`
 Run
 
 ```bash
-yarn build
+npm build
 ```
 
 Contents are in `dist` folder.
